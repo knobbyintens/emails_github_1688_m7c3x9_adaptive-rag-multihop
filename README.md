@@ -1,28 +1,16 @@
-# Safe Reinforcement Learning with Human Preference Feedback
+# Adaptive Retrieval Augmentation for Multi-Hop Question Answering
 
-## Repository Status
+Repository Status: 🚧 **To be released**
 
-**🚧 To be released**
+This repository is a placeholder for the code accompanying the EMNLP 2026
+paper "Adaptive Retrieval Augmentation for Multi-Hop Question Answering".
 
-This repository will host the implementation for the paper
-"Safe Reinforcement Learning with Human Preference Feedback"
-(accepted at ICLR 2025). The code is still being cleaned up and the
-experiments are being re-run before the public release.
+We are currently cleaning up the research code and preparing the public
+release. Nothing in this repository is runnable yet.
 
 ## Coming Soon
 
-- Preference-conditioned policy training code
-- Constrained optimization utilities
-- Evaluation environments and scripts
-- Pre-trained checkpoints and logs
-- Documentation and reproduction instructions
-
-## Paper Information
-
-- **Title**: Safe Reinforcement Learning with Human Preference Feedback
-- **Venue**: International Conference on Learning Representations (ICLR 2025)
-- **Authors**: Maria Hernandez, Priya Raman, Wei Zhang
-
-## Citation
-
-If you find this work useful, please consider citing the paper.
+- [ ] Data preprocessing scripts
+- [ ] Training pipeline
+- [ ] Evaluation harness
+- [ ] Pretrained checkpoints
